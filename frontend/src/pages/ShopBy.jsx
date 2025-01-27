@@ -1,5 +1,5 @@
 import { Header } from '../components/Header'
-import { ProductCard } from '../components/ProductCard'
+import { BestSellerCard } from '../components/BestSellerCard'
 import { useNavigate } from 'react-router-dom'
 import { PrimaryButton } from "../components/PrimaryButton"
 
@@ -32,7 +32,7 @@ export const ShopBy = () => {
             <h1 className='text-md lg: text-lg font-bold'>Our Best Sellers</h1>
             <div className='lg:flex justify-evenly'>
                 {bestSellingProducts.map((eachProduct) => (
-                    <ProductCard key={eachProduct.name} imgUrl={eachProduct.imgUrl} name={eachProduct.name} />
+                    <BestSellerCard key={eachProduct.name} imgUrl={eachProduct.imgUrl} name={eachProduct.name} />
                 ))}
             </div>
             {/* shop by state */}

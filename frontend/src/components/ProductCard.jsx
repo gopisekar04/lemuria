@@ -1,13 +1,13 @@
 import * as React from "react";
 
-export function ProductCard({ imgUrl, name }) {
+export default function ProductCard({ imageSrc, title, price }) {
   return (
-    <div className="h-[415 px] rounded-[53px] w-[352px] max-md:w-[300px] max-sm:w-[90%] flex flex-col items-center p-4">
-      <img
-        src={imgUrl}
-        alt={name}
-        className="h-[250px] w-[250px] object-contain max-md:h-[200px] max-md:w-[200px] max-sm:h-[150px] max-sm:w-[150px]"
-      />
+    <div className="flex flex-col gap-5 max-sm:mb-5">
+      <div className="w-full bg-zinc-300 h-[311px] rounded-[53px]" />
+      <div className="text-xl font-light leading-normal text-black">
+        {title}
+      </div>
+      <div className="text-xl font-light text-black">₹ {price} INR</div>
     </div>
   );
 }
