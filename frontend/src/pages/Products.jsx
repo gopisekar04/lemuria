@@ -10,14 +10,14 @@ import { useState } from "react"
 export const Products = () => {
     const [products, setProducts] = useState(productDetails)
     const params = useParams()
-    const { statename } = params
-
+    const { statename } = params      
+    
     const onSort = (e) => {                
         const sortedProductsList = products.slice().sort((a, b) => {
             switch(e.target.value) {
-                case "Price - high to low":
+                case "high-low":
                     return b.price - a.price
-                case "Price - low to high":                    
+                case "low-high":                    
                     return a.price - b.price
             }
         })
