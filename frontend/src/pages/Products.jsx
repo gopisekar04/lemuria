@@ -8,9 +8,11 @@ import { useState } from "react"
 
 
 export const Products = () => {
-    const [products, setProducts] = useState(productDetails)
     const params = useParams()
-    const { statename } = params      
+    const { statename } = params    
+    const stateProductDetails = productDetails.filter((eachproduct) => eachproduct.stateOrigin === statename)
+    const [products, setProducts] = useState(stateProductDetails)
+  
     
     const onSort = (e) => {                
         const sortedProductsList = products.slice().sort((a, b) => {

@@ -5,142 +5,142 @@ export const productDetails = [
     price: 5000, 
     isCustomizable: true,
     productDetails: "A traditional South Indian art form featuring intricate gold leaf work.", 
-    stateOrigin: "Tamil Nadu"  },
+    stateOrigin: "tamilnadu"  },
   { id: 2, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898125/lemuria/Tanjore_painting-2_gdylzc.jpg", productName: "Tanjore Painting 2", 
     price: 5200, 
     isCustomizable: true,
     produproductDetails: "Depicts mythological themes with vibrant colors and a touch of gold.", 
-    stateOrigin: "Tamil Nadu"   },
+    stateOrigin: "tamilnadu"   },
   { id: 3, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898125/lemuria/Kancheepuram_silk_saree_vvno7a.jpg", productName: "Kancheepuram Silk Saree", 
     price: 8000, 
     isCustomizable: true,
     productDetails: "A luxurious silk saree known for its rich texture and intricate zari work.", 
-    stateOrigin: "Tamil Nadu" },
+    stateOrigin: "tamilnadu" },
   { id: 4, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898125/lemuria/Mysore_Sandalwood_Carvings-1_u8fkpg.jpg", productName: "Mysore Sandalwood Carving 1", 
     price: 7000, 
     isCustomizable: true,
     productDetails: "Exquisite carvings crafted from premium Mysore sandalwood.", 
-    stateOrigin: "Karnataka" },
+    stateOrigin: "karnataka" },
   { id: 5, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898124/lemuria/Blue_pottery_vase-1_gxtpat.jpg", productName: "Blue Pottery Vase 1", 
     price: 3000, 
     isCustomizable: true,
     productDetails: "A delicate vase showcasing the unique blue pottery technique.", 
-    stateOrigin: "Rajasthan" 
+    stateOrigin: "rajasthan" 
  },
   { id: 6, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898124/lemuria/Channapatna_Wooden_Toys-1_ntuwar.jpg", productName: "Channapatna Wooden Toy 1", 
     price: 1200, 
     isCustomizable: true,
     productDetails: "Handcrafted wooden toys painted with natural dyes.", 
-    stateOrigin: "Karnataka" 
+    stateOrigin: "karnataka" 
  },
   { id: 7, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898124/lemuria/Mysore_Sandalwood_Carvings-2_vfhf87.jpg", productName: "Mysore Sandalwood Carving 2", 
     price: 7200, 
     isCustomizable: true,
     productDetails: "Detailed sandalwood carving with a fine finish.", 
-    stateOrigin: "Karnataka" 
+    stateOrigin: "karnataka" 
  },
   { id: 8, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898124/lemuria/Channapatna_Wooden_Toys-2_xcd8zz.jpg", productName: "Channapatna Wooden Toy 2", 
     price: 1300, 
     isCustomizable: true,
     productDetails: "Colorful wooden toys made using traditional lac-turnery.", 
-    stateOrigin: "Karnataka" 
+    stateOrigin: "karnataka" 
  },
   { id: 9, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898124/lemuria/Kantha_Embroidered_Dupatta-1_ryimgo.jpg", productName: "Kantha Embroidered Dupatta 1", 
     price: 2500, 
     isCustomizable: true,
     productDetails: "A beautifully embroidered dupatta with intricate Kantha stitching.", 
-    stateOrigin: "West Bengal" 
+    stateOrigin: "west bengal" 
  },
   { id: 10, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898124/lemuria/Blue_pottery_vase-2_qldiql.jpg", productName: "Blue Pottery Vase 2", 
     price: 3100, 
     isCustomizable: true,
     productDetails: "A stunning vase featuring floral patterns and vibrant blue hues.", 
-    stateOrigin: "Rajasthan" 
+    stateOrigin: "rajasthan" 
 },
   { id: 11, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898123/lemuria/Kantha_Embroidered_Dupatta-2_dx1qij.jpg", productName: "Kantha Embroidered Dupatta 2", 
     price: 2600, 
     isCustomizable: true,
     productDetails: "Elegant dupatta showcasing traditional Kantha embroidery.", 
-    stateOrigin: "West Bengal" 
+    stateOrigin: "west bengal" 
  },
   { id: 12, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898123/lemuria/Block_printed_tablecloth-2_yvqu7l.jpg", productName: "Block Printed Tablecloth 2", 
     price: 2000, 
     isCustomizable: true,
     productDetails: "Hand-block printed tablecloth with intricate designs.", 
-    stateOrigin: "Rajasthan" 
+    stateOrigin: "rajasthan" 
  },
   { id: 13, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898123/lemuria/Block_printed_tablecloth-1_ckjead.jpg", productName: "Block Printed Tablecloth 1", 
     price: 1900, 
     isCustomizable: true,
     productDetails: "Vibrant tablecloth featuring traditional block printing patterns.", 
-    stateOrigin: "Rajasthan" 
+    stateOrigin: "rajasthan" 
  },
   { id: 14, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898123/lemuria/Pattachitra_Painting-1_jlqz6h.jpg", productName: "Pattachitra Painting 1", 
     price: 4000, 
     isCustomizable: true,
     productDetails: "Traditional painting depicting mythological themes on a cloth canvas.", 
-    stateOrigin: "Odisha" 
+    stateOrigin: "odisha" 
  },
   { id: 15, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898123/lemuria/Pattachitra_Painting-3_dzq9zi.jpg", productName: "Pattachitra Painting 3", 
     price: 4200, 
     isCustomizable: true,
     productDetails: "A masterpiece showcasing detailed narratives in Pattachitra art.", 
-    stateOrigin: "Odisha" 
+    stateOrigin: "odisha" 
  },
   { id: 16, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898123/lemuria/Pattachitra_Painting-2_aywl4d.jpg", productName: "Pattachitra Painting 2", 
     price: 4100, 
     isCustomizable: true,
     productDetails: "Vividly illustrated artwork using natural dyes on palm leaves.", 
-    stateOrigin: "Odisha" 
+    stateOrigin: "odisha" 
 },
   { id: 17, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898122/lemuria/Appliqu%C3%A9_Work_Wall_Hanging-1_q02xl8.jpg", productName: "Appliqué Work Wall Hanging 1", 
     price: 1800, 
     isCustomizable: true,
     productDetails: "Colorful wall hanging made using traditional appliqué techniques.", 
-    stateOrigin: "Odisha" 
+    stateOrigin: "odisha" 
  },
   { id: 18, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898122/lemuria/Terracotta_figurines-1_flitdd.jpg", productName: "Terracotta Figurine 1", 
     price: 2300, 
     isCustomizable: true,
     productDetails: "Handcrafted terracotta figurine with a rustic charm.", 
-    stateOrigin: "West Bengal" 
+    stateOrigin: "west bengal" 
  },
   { id: 19, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898122/lemuria/Appliqu%C3%A9_Work_Wall_Hanging-2_mkw1xo.jpg", productName: "Appliqué Work Wall Hanging 2", 
     price: 1850, 
     isCustomizable: true,
     productDetails: "Decorative wall hanging featuring vibrant appliqué patterns.", 
-    stateOrigin: "Odisha" 
+    stateOrigin: "odisha" 
  },
   { id: 20, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898122/lemuria/Appliqu%C3%A9_Work_Wall_Hanging-3_et8bu5.jpg", productName: "Appliqué Work Wall Hanging 3", 
     price: 1900, 
     isCustomizable: true,
     productDetails: "Intricately designed wall hanging using colorful appliqué art.", 
-    stateOrigin: "Odisha" 
+    stateOrigin: "odisha" 
  },
   { id: 21, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898122/lemuria/Terracotta_figurines-2_ollqoc.jpg", productName: "Terracotta Figurine 2", 
     price: 2400, 
     isCustomizable: true,
     productDetails: "Artistic terracotta sculpture crafted by skilled artisans.", 
-    stateOrigin: "West Bengal" 
+    stateOrigin: "west bengal" 
  },
 ]
