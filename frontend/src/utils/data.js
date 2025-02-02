@@ -1,5 +1,5 @@
 
-export const products = [
+export const productDetails = [
   { id: 1, 
     imgUrl: "https://res.cloudinary.com/dshkviape/image/upload/v1737898126/lemuria/Tanjore_painting-1_ownvps.jpg", productName: "Tanjore Painting 1", 
     price: 5000, 

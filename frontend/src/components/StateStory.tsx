@@ -18,7 +18,7 @@ export function StateStory({ title, description, alignment }) {
         </div>
       </div>
       <button onClick={() => {
-        navigate("/products")
+        navigate(`/products/${title.toLowerCase()}`)
       }} className={`px-16 py-5 mx-5 text-sm font-extrabold whitespace-nowrap bg-indigo-400 rounded-[29px] max-md:w-full max-md:text-center cursor-pointer ${buttonOrder}`}>
         SHOP NOW
       </button>
