@@ -14,7 +14,7 @@ export const Products = () => {
     const [products, setProducts] = useState(stateProductDetails)
   
     
-    const onSort = (e) => {                
+    const onSort = (e) => {
         const sortedProductsList = products.slice().sort((a, b) => {
             switch(e.target.value) {
                 case "high-low":
