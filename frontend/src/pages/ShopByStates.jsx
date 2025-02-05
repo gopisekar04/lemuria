@@ -1,5 +1,6 @@
 import { StateStory } from "../components/StateStory"
 import { Header } from "../components/Header"
+import { stateData } from "../utils/stateStory"
 
 export const ShopByStates = () => {    
     
